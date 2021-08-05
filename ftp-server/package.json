@@ -1,0 +1,9 @@
+{
+  "name": "ftp-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "ftp-srv": "^4.4.0"
+  }
+}
